@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0152-maximum-product-subarray) |
 | [0493-reverse-pairs](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0493-reverse-pairs) |
 ## Binary Search
 |  |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0493-reverse-pairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
