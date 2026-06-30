@@ -19,11 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0162-find-peak-element) |
 | [0493-reverse-pairs](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0493-reverse-pairs) |
+| [0875-koko-eating-bananas](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0162-find-peak-element) |
 | [0493-reverse-pairs](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0493-reverse-pairs) |
+| [0875-koko-eating-bananas](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |
