@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0112-path-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
@@ -73,4 +74,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
