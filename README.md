@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0525-contiguous-array) |
 | [0704-binary-search](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0875-koko-eating-bananas) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Search
 |  |
@@ -91,8 +92,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0525-contiguous-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0525-contiguous-array) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
