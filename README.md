@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0152-maximum-product-subarray) |
+| [1668-maximum-repeating-substring](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/1668-maximum-repeating-substring) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -125,4 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0027-remove-element) |
 | [0349-intersection-of-two-arrays](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0349-intersection-of-two-arrays) |
+## String
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/1668-maximum-repeating-substring) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
