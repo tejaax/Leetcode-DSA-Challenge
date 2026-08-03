@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0231-power-of-two) |
+| [0877-stone-game](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0877-stone-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0525-contiguous-array) |
 | [0704-binary-search](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0877-stone-game) |
 | [1331-rank-transform-of-an-array](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/1331-rank-transform-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0213-house-robber-ii) |
+| [0877-stone-game](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0877-stone-game) |
 | [1668-maximum-repeating-substring](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/1668-maximum-repeating-substring) |
 ## Breadth-First Search
 |  |
@@ -138,4 +141,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1668-maximum-repeating-substring](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/1668-maximum-repeating-substring) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
