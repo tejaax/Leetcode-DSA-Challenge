@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0231-power-of-two) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Recursion
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/1406-stone-game-iii) |
 | [1668-maximum-repeating-substring](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/1668-maximum-repeating-substring) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/1406-stone-game-iii) |
+## Enumeration
+|  |
+| ------- |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 <!---LeetCode Topics End-->
