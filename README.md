@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0231-power-of-two) |
 | [0877-stone-game](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/1510-stone-game-iv) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0213-house-robber-ii) |
 | [0877-stone-game](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/1510-stone-game-iv) |
 | [1668-maximum-repeating-substring](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/1668-maximum-repeating-substring) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Breadth-First Search
@@ -154,18 +156,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/1510-stone-game-iv) |
 ## Enumeration
 |  |
 | ------- |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
