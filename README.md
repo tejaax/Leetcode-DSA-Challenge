@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/1406-stone-game-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3731-find-missing-elements](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0525-contiguous-array) |
 | [1331-rank-transform-of-an-array](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/1331-rank-transform-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [1331-rank-transform-of-an-array](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/1331-rank-transform-of-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
