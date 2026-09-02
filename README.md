@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/1510-stone-game-iv) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
