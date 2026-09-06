@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0213-house-robber-ii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0115-distinct-subsequences) |
 | [1668-maximum-repeating-substring](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/1668-maximum-repeating-substring) |
 ## String Matching
 |  |
