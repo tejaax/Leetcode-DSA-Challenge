@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0213-house-robber-ii) |
 | [0877-stone-game](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0940-distinct-subsequences-ii) |
+| [1143-longest-common-subsequence](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/1510-stone-game-iv) |
 | [1668-maximum-repeating-substring](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/1668-maximum-repeating-substring) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0940-distinct-subsequences-ii) |
+| [1143-longest-common-subsequence](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/1143-longest-common-subsequence) |
 | [1668-maximum-repeating-substring](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/1668-maximum-repeating-substring) |
 ## String Matching
 |  |
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
