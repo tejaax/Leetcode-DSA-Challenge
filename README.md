@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/1143-longest-common-subsequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1668-maximum-repeating-substring](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/1668-maximum-repeating-substring) |
+| [3498-reverse-degree-of-a-string](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -224,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/1143-longest-common-subsequence) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
