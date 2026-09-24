@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/1510-stone-game-iv) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/3875-construct-uniform-parity-array-i) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tejaax/Leetcode-DSA-Challenge/tree/master/3875-construct-uniform-parity-array-i) |
